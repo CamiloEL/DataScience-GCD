@@ -1,4 +1,4 @@
-# DataScience-GCD
+# Getting and Cleaning Data Project Repository - Assignment due July 17, 2016
 
 *Quick start:* Run the run_analysis.R file and read the data set with:
 
