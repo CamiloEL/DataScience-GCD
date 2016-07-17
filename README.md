@@ -21,3 +21,6 @@ Finally, a new dataset under the name of "DataMelt2" is created through the "mel
 As stated before, you can read this data set using the following command, after sourcing run_analysis.R:
 
 data <- read.table("./DataMelt2.txt", header = TRUE)
+
+A copy of this file is also provided in this repository, under the same name. **Do not download this file to your working directory before attempting to create if from the run_analysis.R script.** It is provided only for reference.
+
